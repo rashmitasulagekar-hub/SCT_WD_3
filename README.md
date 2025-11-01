@@ -1,2 +1,3 @@
 # TicTacToe
-This is a simple, interactive Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The game allows two players to compete against each other or a single player to compete against the computer. The game is played on a 3x3 grid, with each player taking turns to place their mark (either "X" or "O") in an empty cell. The first player to align three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
+This is a simple, interactive Tic-Tac-Toe game developed using **HTML**, **CSS**, and **JavaScript**. The game allows two players to compete against each other or a single player to compete against the computer. 
+The game is played on a 3x3 grid, with each player taking turns to place their mark (either "X" or "O") in an empty cell. The first player to align three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
